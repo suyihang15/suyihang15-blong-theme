@@ -85,4 +85,7 @@ MIT License
 [suyihang15](https://suyihang15.com/)
 
 ## 注意
-请遵守本人的开源协议，然后也不做过多的限制。
+请遵守本人的开源协议，然后也不做过多的限制。   
+
+效果展示   
+<img width="2471" height="1355" alt="屏幕截图 2026-05-02 112148" src="https://github.com/user-attachments/assets/205c0733-05b3-4499-866c-3f92dd8394f8" />
