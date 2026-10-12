@@ -88,4 +88,5 @@ MIT License
 请遵守本人的开源协议，然后也不做过多的限制。   
 
 效果展示   
-<img width="2471" height="1355" alt="屏幕截图 2026-05-02 112148" src="https://github.com/user-attachments/assets/205c0733-05b3-4499-866c-3f92dd8394f8" />
+<img width="1277" height="672" alt="屏幕截图 2026-10-12 151230" src="https://github.com/user-attachments/assets/b7973e02-b4be-4920-b384-e696b455838d" />
+
